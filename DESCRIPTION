@@ -1,0 +1,10 @@
+Package: Fproj
+Type: Package
+Title: Temperature Conversion
+Version: 0.1.0
+Author: Isha Jigajinni
+Maintainer: Isha Jigajinni <isha.jigajinni@gmail.com>
+Description: Is able to convert Frahrenheit to celsius given a vaue and conversely, convert Celsius to Fahreheit 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
